@@ -5,7 +5,7 @@ const Pricing = () => {
   return (
     <>
       <section class="text-gray-600 body-font overflow-hidden">
-        <div class="container px-5 py-24 mx-auto">
+        <div class="container p-5 py-24 mx-auto">
           <div class="flex flex-row align-center w-full mb-20 place-content-center mx-auto">
             <p className="mt-1 mr-1 ">Billed Monthly</p>
             <div className="">

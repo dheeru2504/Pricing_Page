@@ -90,7 +90,7 @@ const Details = () => {
       {/* pricing details */}
 
       <section className="text-gray-600 body-font">
-        <div className="container  py-24 mx-auto">
+        <div className="container p-5  py-24 mx-auto">
           <Accordion>
             <AccordionSummary
               expandIcon={<ExpandMoreIcon style={{ color: "#1374f8" }} />}

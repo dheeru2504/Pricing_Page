@@ -36,7 +36,7 @@ const Features = () => {
   return (
     <>
       <section class="text-gray-600 body-font overflow-hidden">
-        <div class="container px-5 py-24 mx-auto flex flex-row flex-wrap  ">
+        <div class="container px-4 py-24 mx-auto flex flex-row flex-wrap  ">
           <div class="mt-4 mb-4  mr-3 w-80 ">
             <div class="h-full p-6 text-start rounded-lg border-2 border-gray-300   relative overflow-hidden">
               <h2 class="text-2xl font-semibold  pb-3 title-font  font-medium">
